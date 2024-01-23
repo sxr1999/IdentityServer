@@ -16,6 +16,15 @@ public class Program
                 options.ApiName = "weatherApi";
             });
 
+        builder.Services.AddAuthorization(x =>
+        {
+            x.AddPolicy("weatherApiScope", policy =>
+            {
+                policy.RequireAuthenticatedUser();
+                policy.RequireClaim("scope", "weatherApi.read");
+            });
+        });
+
         // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();

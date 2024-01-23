@@ -39,3 +39,4 @@
 /Users/shenxinran/RiderProjects/IdentityServer/IdentityServer/obj/Debug/net8.0/IdentityServer.pdb
 /Users/shenxinran/RiderProjects/IdentityServer/IdentityServer/obj/Debug/net8.0/IdentityServer.genruntimeconfig.cache
 /Users/shenxinran/RiderProjects/IdentityServer/IdentityServer/obj/Debug/net8.0/ref/IdentityServer.dll
+/Users/shenxinran/RiderProjects/IdentityServer/IdentityServer/obj/Debug/net8.0/IdentityServer.sourcelink.json

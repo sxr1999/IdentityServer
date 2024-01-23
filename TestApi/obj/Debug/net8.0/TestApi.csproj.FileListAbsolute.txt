@@ -42,3 +42,4 @@
 /Users/shenxinran/RiderProjects/IdentityServer/TestApi/obj/Debug/net8.0/TestApi.pdb
 /Users/shenxinran/RiderProjects/IdentityServer/TestApi/obj/Debug/net8.0/TestApi.genruntimeconfig.cache
 /Users/shenxinran/RiderProjects/IdentityServer/TestApi/obj/Debug/net8.0/ref/TestApi.dll
+/Users/shenxinran/RiderProjects/IdentityServer/TestApi/obj/Debug/net8.0/TestApi.sourcelink.json
